@@ -1,0 +1,19 @@
+{
+  "name": "menu-digital",
+  "version": "1.0.0",
+  "description": "Digital menu for restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iBankow/menu-digital.git"
+  },
+  "author": "iBankow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iBankow/menu-digital/issues"
+  },
+  "homepage": "https://github.com/iBankow/menu-digital#readme"
+}
